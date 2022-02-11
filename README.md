@@ -16,4 +16,4 @@ In short, the total score is simply  the linear sum of the scores relatively wei
 
 ![2022-02-11_COSYNE-razor](2022-02-11_COSYNE-razor.png)
 
-More details in the [notebook](https://github.com/laurentperrinet/2022-02-11_COSYNE-scoresheet/blob/main/2022-02-11_COSYNE-scoresheet.ipynb) which can also be [forked here](https://github.com/laurentperrinet/2022-02-11_COSYNE-scoresheet) and [interactively modified on binder](https://mybinder.org/v2/gh/laurentperrinet/2022-02-11_COSYNE-scoresheet/main?labpath=2022-02-11_COSYNE-scoresheet.ipynb).
+More details in the [notebook](https://github.com/laurentperrinet/2022-02-11_COSYNE-scoresheet/blob/main/2022-02-11_COSYNE-scoresheet.ipynb) (or directly in this [post](https://laurentperrinet.github.io/sciblog/posts/2022-02-11-cosyne-reviewer-feedback.html)) which can also be [forked here](https://github.com/laurentperrinet/2022-02-11_COSYNE-scoresheet) and [interactively modified on binder](https://mybinder.org/v2/gh/laurentperrinet/2022-02-11_COSYNE-scoresheet/main?labpath=2022-02-11_COSYNE-scoresheet.ipynb).
