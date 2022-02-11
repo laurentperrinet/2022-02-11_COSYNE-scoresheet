@@ -12,7 +12,7 @@ Following that message:
 
 I have received $N = 82$ anwsers from the [google form](https://forms.gle/hjzWVemM4Jy9cBbZ9) (out of them, $79$ are valid) out of the $881$ submitted_abstracts. This allows us to make some analysis of the score... Here are the results.
 
-In short, the total score is the sum of the scores relatively weighted by the confidence levels and the threshold is close to $6$:
+In short, the total score is simply  the linear sum of the scores relatively weighted by the confidence levels (as stated in the email we received from the chairs) and the threshold is close to $6.05$ this year:
 
 ![2022-02-11_COSYNE-razor](2022-02-11_COSYNE-razor.png)
 
